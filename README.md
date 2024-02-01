@@ -1,1 +1,1 @@
-Segmentation Analysis on Electric Vehicles Market and its target customers.
+Market Segmentation Analysis on Electric Vehicles and their target customers.
